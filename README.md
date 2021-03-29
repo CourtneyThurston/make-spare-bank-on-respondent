@@ -1,9 +1,6 @@
 # make-spare-bank-on-respondent
 Okay so started also working on another user interviews platform, Respondent. Here's surveys that are likely to work for y'all (listed first), plus random things after:
 
-GENERAL REFERRAL TO RESPONDENT: app.respondent.io/r/courtneythurstondelbuono-fca117b50490
-
-SPECIFIC STUDY REFERRALS:
 ($250) Seeking current high school seniors who have applied to colleges for the 2021 semester:
 https://app.respondent.io/projects/view/603d1657065e9600118456c1/seeking-current-high-school-seniors-who-have-applied-to-colleges-for-the-2021-semester/courtneythurstondelbuono-fca117b50490
 
