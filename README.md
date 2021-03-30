@@ -1,6 +1,287 @@
 # make-spare-bank-on-respondent
 Okay so started also working on another user interviews platform, Respondent. Here's surveys that are likely to work for y'all (listed first), plus random things after:
 
+** NEW 3/30/21 **
+($100) Do you handle IT Tasks at your company:
+https://app.respondent.io/projects/view/606251ce84d563001481407e/do-you-handle-it-tasks-at-your-company-we-want-to-hear-from-you!/courtneythurstondelbuono-fca117b50490
+
+($100) Security professionals and software admins in the financial sector:
+https://app.respondent.io/projects/view/60622d382b4a2300143d0b81/security-professionals-and-software-admins-in-the-financial-sector-lend-us-your-expertise/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking Customer Data Platform Users:
+https://app.respondent.io/projects/view/601c557ff8b21d00136bd52b/seeking-customer-data-platform-users/courtneythurstondelbuono-fca117b50490
+
+($100) Reshaping the Investment Experience:
+https://app.respondent.io/projects/view/605b318b7fc48000138476c0/reshaping-the-investment-experience/courtneythurstondelbuono-fca117b50490
+
+($100) Searching for creative people to talk about their life and make collages in PowerPoint:
+https://app.respondent.io/projects/view/605e214584d56300144c52d3/searching-for-creative-people-to-talk-about-their-life-and-make-collages-in-powerpoint/courtneythurstondelbuono-fca117b50490
+
+($100) Sports focus group discussion:
+https://app.respondent.io/projects/view/605e0e4d3dd9690014c962c3/sports-focus-group-discussion!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking women for a diary study:
+https://app.respondent.io/projects/view/605e05f170189b0014b5ffa2/seeking-women-for-a-diary-study/courtneythurstondelbuono-fca117b50490
+
+($100) Looking for homeowners:
+https://app.respondent.io/projects/view/605d139a84d56300143c2d81/looking-for-homeowners/courtneythurstondelbuono-fca117b50490
+
+($100) Small business owners in the US:
+https://app.respondent.io/projects/view/605b2abaf550d70013e6a6a6/small-business-owners-in-the-us/courtneythurstondelbuono-fca117b50490
+
+($100) Resolving cloud issues:
+https://app.respondent.io/projects/view/605b8afc2b4a230014dd3724/resolving-cloud-issues/courtneythurstondelbuono-fca117b50490
+
+($100) Resolving cloud issues:
+https://app.respondent.io/projects/view/605b8aa684d56300141b3561/resolving-cloud-issues/courtneythurstondelbuono-fca117b50490
+
+($100) Resolving cloud issues:
+https://app.respondent.io/projects/view/605b893270189b001487b7b1/resolving-cloud-issues/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking Amazon Prime Now members:
+https://app.respondent.io/projects/view/605b805af550d70013f0d884/seeking-amazon-prime-now-members/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking Drafters who are using AutoCAD:
+https://app.respondent.io/projects/view/605b43e1f550d70013e86c05/seeking-drafters-who-are-using-autocad/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking sports fans:
+https://app.respondent.io/projects/view/60396efb2db0b400112bdbbb/seeking-sports-fans!/courtneythurstondelbuono-fca117b50490
+
+($100) Do you do your banking or investing online:
+https://app.respondent.io/projects/view/6053ff531ed73500135d70d9/do-you-do-your-banking-or-investing-online-fill-out-this-survey-if-so!/courtneythurstondelbuono-fca117b50490
+
+($100) We are looking for data experts familiar with BigQuery:
+https://app.respondent.io/projects/view/6051b5d91d21f700126af3b0/we-are-looking-for-data-experts-who-are-familiar-with-google-bigquery.-take-our-survey!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking experienced traders:
+https://app.respondent.io/projects/view/6050dc47de3c06001409334b/seeking-experienced-traders-(week-of-march-15)/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking professionls using data warehouse solutions:
+https://app.respondent.io/projects/view/60495bdadb5c690012fb46b2/seeking-professionals-using-data-warehouse-solutions/courtneythurstondelbuono-fca117b50490
+
+($100) Mobile developers with mobile app monitoring:
+https://app.respondent.io/projects/view/604b5c41927afc0011cbaac9/mobile-developers-with-mobile-app-monitoring/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking professionls using data warehouse solutions:
+https://app.respondent.io/projects/view/6036c4f257d80d001156002c/seeking-professionals-using-data-warehouse-solutions/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking health insurance members:
+https://app.respondent.io/projects/view/604276be36b2930011235f11/seeking-health-insurance-members/courtneythurstondelbuono-fca117b50490
+
+($100) Homecare health/hygiene research:
+https://app.respondent.io/projects/view/6039665a065e9600116036f8/homecare-healthhygiene-research/courtneythurstondelbuono-fca117b50490
+
+($100) Small business -- interaction with customers:
+https://app.respondent.io/projects/view/603fb8d3d6dd5100114540de/small-business-:-interaction-with-customers/courtneythurstondelbuono-fca117b50490
+
+($100) Moved to the US from another country:
+https://app.respondent.io/projects/view/60410bd636b293001103764b/moved-to-the-u.s.-from-another-country/courtneythurstondelbuono-fca117b50490
+
+($100) Test a new billing and usage analytics tool:
+https://app.respondent.io/projects/view/603d1ca79cdfec001130c874/test-a-new-billing-and-usage-analytics-tool!/courtneythurstondelbuono-fca117b50490
+
+($100) Moved to the USA from Canada:
+https://app.respondent.io/projects/view/6036e809293e2b001231f061/moved-to-the-u.s.-from-canada/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking IT professionals:
+https://app.respondent.io/projects/view/603631a1a491ba00166b76ac/seeking-it-professionals/courtneythurstondelbuono-fca117b50490
+
+($100) Order in a drive-thru and get paid (Union/Newark, NJ):
+https://app.respondent.io/projects/view/60366d420e53c60011127892/order-in-a-drive-thru-and-get-paid!-(unionnewark-nj)/courtneythurstondelbuono-fca117b50490
+
+($100) Calibration software user research:
+https://app.respondent.io/projects/view/6036fde4c3daf60013ce7512/calibration-software-user-research/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking Linux on Z / LinuxONE Infrastructure administrators:
+https://app.respondent.io/projects/view/602cd9a8c08c1c001214c6c4/seeking-linux-on-z-linuxone-infrastructure-administrators!/courtneythurstondelbuono-fca117b50490
+
+($100) Leaders wanting their teams to get better at design research & strategy:
+https://app.respondent.io/projects/view/60248d583aa4800012bb8525/leaders-wanting-their-teams-to-get-better-at-design-research-and-strategy./courtneythurstondelbuono-fca117b50490
+
+($100) Talk about tech companies:
+https://app.respondent.io/projects/view/603032fb6859e400116819e0/talk-about-tech-companies!/courtneythurstondelbuono-fca117b50490
+
+($100) Looking for health goal setters:
+https://app.respondent.io/projects/view/602accb9e0054900113de11d/looking-for-health-goal-setters/courtneythurstondelbuono-fca117b50490
+
+($100) Looking to speak to people who are interested in deploying Kubernetes:
+https://app.respondent.io/projects/view/602d7b974427350012ed0a6e/looking-to-speak-to-people-who-are-interested-in-deploying-kubernetes/courtneythurstondelbuono-fca117b50490
+
+($100) Do you struggle with beauty & personal care due to your disability:
+https://app.respondent.io/projects/view/6019a4e9a4c64400111217a5/do-you-struggle-with-beauty-and-personal-care-due-to-your-disability-let's-talk./courtneythurstondelbuono-fca117b50490
+
+($100) Seeking developers and devops professionals who build and deploy environments:
+https://app.respondent.io/projects/view/6025b3990655d40012927947/seeking-developers-and-devops-professionals-who-build-and-deploy-environments/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking IT professionals who manage tech stack for their company:
+https://app.respondent.io/projects/view/6021876cf8b21d0013a57a84/seeking-it-professionals-who-manage-tech-stack-for-their-company/courtneythurstondelbuono-fca117b50490
+
+($100) Let's chat about taxes:
+https://app.respondent.io/projects/view/6022f798ce1d4100111e6846/let's-chat-about-taxes!/courtneythurstondelbuono-fca117b50490
+
+($100) Check out our new tool for group & e-learning coaches:
+https://app.respondent.io/projects/view/601d99349be81f001237fb72/check-out-our-new-tool-for-group-and-e-learning-coaches/courtneythurstondelbuono-fca117b50490
+
+($100) Write code? Interact with databases? Want to give feedback on db tools for devs:
+https://app.respondent.io/projects/view/60213e0bce1d410011f405c1/write-code-interact-with-databases-want-to-give-feedback-on-database-tools-for-devs-we-want-you!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking perspective from hiring managers on hiring practices:
+https://app.respondent.io/projects/view/6018d09c0511a800129152de/seeking-perspectives-from-hiring-managers-on-hiring-practices/courtneythurstondelbuono-fca117b50490
+
+($100) We want to learn about your haircare routine:
+https://app.respondent.io/projects/view/6018150d39c661001472e862/we-want-to-learn-about-your-haircare-routine!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking guests of the Ritz Carlton hotel:
+https://app.respondent.io/projects/view/6062568e70189b0014f034d4/seeking-guests-of-the-ritz-carlton-hotel/courtneythurstondelbuono-fca117b50490
+
+($100) Looking for folks who are currently servers at restaurants:
+https://app.respondent.io/projects/view/606236bef550d7001353e70a/looking-for-folks-who-are-currently-servers-in-a-restaurant/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking talent acquisition specialists of healthcare staffing agencies:
+https://app.respondent.io/projects/view/605dde377fc4800013b821ea/seeking-talent-acquisition-specialists-of-healthcare-staffing-agencies/courtneythurstondelbuono-fca117b50490
+
+($100) Providing care for a family member at home w/ Dementia/Alzheimers:
+https://app.respondent.io/projects/view/605e97632b4a23001418719a/providing-care-for-a-family-member-at-home-with-dementiaalzheimer's-learn-about-our-services!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking clinical trial operation managers:
+https://app.respondent.io/projects/view/605e488884d563001451c495/copy-of-seeking-clinical-trial-operation-managers/courtneythurstondelbuono-fca117b50490
+
+($100) Have you purchased software to run a cx/feedback program:
+https://app.respondent.io/projects/view/605e1cd470189b0014b91fdb/have-you-purchased-software-to-run-a-customer-experience-feedback-program/courtneythurstondelbuono-fca117b50490
+
+($100) Intelligent resolution of business urgencies:
+https://app.respondent.io/projects/view/6054c7d31ed735001365d710/intelligent-resolution-of-business-urgencies/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking clinical trial operation managers:
+https://app.respondent.io/projects/view/605c94a53dd9690014ab21c4/seeking-clinical-trial-operation-managers/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking e-commerce professionals:
+https://app.respondent.io/projects/view/6053b40091983d00140866f6/seeking-e-commerce-professionals/courtneythurstondelbuono-fca117b50490
+
+($100) Focus group discussion! For some of our internal employees (not sure which company yet):
+https://app.respondent.io/projects/view/60514eba43b32c001256193c/focus-group-discussion!/courtneythurstondelbuono-fca117b50490
+
+($100) Providing care for a family member at home w/ Dementia/Alzheimers:
+https://app.respondent.io/projects/view/6059fd7e51108d0014774d88/taking-care-of-a-parentgrandparent-at-home-with-dementiaalzheimer's-learn-about-services-for-you./courtneythurstondelbuono-fca117b50490
+
+($100) Looking for Shopify users who sell products on Ecommerce Platform:
+https://app.respondent.io/projects/view/6059751751108d001470f47a/looking-for-shopify-users-who-sell-products-on-ecommerce-platform/courtneythurstondelbuono-fca117b50490
+
+($100) Skincare Brands -- How do you select contract manufacturers:
+https://app.respondent.io/projects/view/605b46c684d563001410fa34/skincare-brands:-how-do-you-select-contract-manufacturers/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking customer service agents:
+https://app.respondent.io/projects/view/604933a23f61020011443f80/seeking-customer-service-agents/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking customer service managers:
+https://app.respondent.io/projects/view/60493e9fdb5c690012f7a34f/seeking-customer-service-managers/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking managers responsible for training and development:
+https://app.respondent.io/projects/view/6058e519d9f197001507eee9/seeking-managers-responsible-for-training-and-development/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking beauty/skincare innovation/r&d leaders:
+https://app.respondent.io/projects/view/6058d119141d750012661699/seeking-beautyskincare-innovation-randd-leaders/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking leaders at companies that use enterprise resource planning:
+https://app.respondent.io/projects/view/605375ecde3c0600143ca672/seeking-leaders-at-companies-that-use-enterprise-resource-planning-(erp)/courtneythurstondelbuono-fca117b50490
+
+($100) Providing care for a family member at home w/ Dementia/Alzheimers:
+https://app.respondent.io/projects/view/60524aeede3c06001428e5e9/interviews-with-people-who-care-for-a-parent-or-grandparent-with-dementia-or-alzheimer's/courtneythurstondelbuono-fca117b50490
+
+($100) Looking for recruiting managers/lead recruiters:
+https://app.respondent.io/projects/view/604fc051725ddd0013651c56/looking-for-recruiting-managers-lead-recruiters/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking 'Money in Excel' customers:
+https://app.respondent.io/projects/view/60419c161062c4001129cb40/seeking-'money-in-excel'-customers!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking insurance agents:
+https://app.respondent.io/projects/view/604f909024ab430013486e01/seeking-insurance-agents/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking fashion designers:
+https://app.respondent.io/projects/view/604ec28324ab4300133b5922/seeking-fashion-designers/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking therapists that have recently joined TalkSpace, BetterHelp, Ginger, etc:
+https://app.respondent.io/projects/view/6047a39e51074b0011c72143/seeking-therapists-that-have-recently-joined-talkspace-betterhelp-ginger-etc/courtneythurstondelbuono-fca117b50490
+
+($100) Looking for warehouse expert/ cx expert:
+https://app.respondent.io/projects/view/60474b4559fb340011e181ec/looking-for-warehouse-expert-cx-expert/courtneythurstondelbuono-fca117b50490
+
+($100) Providing care for a family member at home w/ Dementia/Alzheimers:
+https://app.respondent.io/projects/view/6046e02251074b0011bd3057/are-you-the-primary-caregiver-to-a-loved-one-with-dementia-or-alzheimer's-we-want-to-speak-to-you./courtneythurstondelbuono-fca117b50490
+
+($100) Seeking loan officers, processors, and underwriting:
+https://app.respondent.io/projects/view/604671b01062c40011632d14/seeking-loan-officers-processors-and-underwriters!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking fans of 92Y:
+https://app.respondent.io/projects/view/603e6923065e960011a1127d/seeking-fans-of-92y/courtneythurstondelbuono-fca117b50490
+
+($100) New workflow tool for controllers and accounts:
+https://app.respondent.io/projects/view/60404e3d1062c4001109a8ba/new-workflow-tool-for-controllers-and-accountants/courtneythurstondelbuono-fca117b50490
+
+($100) Supply chain resilience venture -- seeking triallists:
+https://app.respondent.io/projects/view/6042156936b29300111a5904/supply-chain-resilience-venture:-seeking-triallists/courtneythurstondelbuono-fca117b50490
+
+($100) Advanced budgets for team leads:
+https://app.respondent.io/projects/view/603d71409cdfec00113c369a/advanced-budgets-for-team-leads/courtneythurstondelbuono-fca117b50490
+
+($100) Lab equipment reservation user research:
+https://app.respondent.io/projects/view/603702d1293e2b0012341b4a/lab-equipment-reservation-user-research/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking clinical pharmacists using clinical surveillance software:
+https://app.respondent.io/projects/view/603913cb2db0b40011200f96/seeking-clinical-pharmacists-using-clinical-surveillance-software/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking Shopify store owners that use Quickbooks or Xero:
+https://app.respondent.io/projects/view/6038cbe5d660e800113f8d71/seeking-shopify-store-owners-that-use-quickbooks-or-xero/courtneythurstondelbuono-fca117b50490
+
+($100) [Returns management] Seeking remote customer service reps with returns experience for usability testing:
+https://app.respondent.io/projects/view/60369e2a5c563300113aadc1/returns-mgmt-seeking-remote-customer-service-reps-with-returns-experience-for-usability-testing/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking commercial/industrial real estate acquisition managers:
+https://app.respondent.io/projects/view/603267280864d0001273f5c9/seeking-commercialindustrical-real-estate-acquisition-managers/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking electrical contractors who install lighting systems:
+https://app.respondent.io/projects/view/602ec61ca16d5d0011952ea7/seeking-electrical-contractors-who-install-lighting-systems/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking electrical contractors who install lighting systems:
+https://app.respondent.io/projects/view/602ffc190aad43001231e246/copy-of-seeking-electrical-contractors-who-install-lighting-systems/courtneythurstondelbuono-fca117b50490
+
+($100) Simple budgets for team leads:
+https://app.respondent.io/projects/view/602e714b0830320011c0fe64/simple-budgets-for-team-leads/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking pain clinic managers, coordinators, and med staff:
+https://app.respondent.io/projects/view/602040419be81f00124e85fe/seeking-pain-clinic-managers-coordinators-and-med.-staff!/courtneythurstondelbuono-fca117b50490
+
+($100) [Returns management] seeking remote customer service reps for usability testing:
+https://app.respondent.io/projects/view/602d47b5c08c1c00121d2f64/returns-management-seeking-remote-customer-service-reps-for-usability-testing/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking individuals involved in marketing analytics/reporting 2.0:
+https://app.respondent.io/projects/view/6021bb49bcecf00012545dfa/seeking-individuals-involved-in-marketing-analyticsreporting-2.0/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking CSR or Sustainability dept manager:
+https://app.respondent.io/projects/view/60246240137c910011a0cca7/seeking-csr-or-sustainability-department-manager/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking financial service reps who open new accounts:
+https://app.respondent.io/projects/view/60229a6ace1d410011104085/seeking-financial-service-reps-who-open-new-accounts!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking individuals involved in marketing analytics/reporting:
+https://app.respondent.io/projects/view/601f2810137c910011500145/seeking-individuals-involved-in-marketing-analyticsreporting/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking medical or therapist office staff:
+https://app.respondent.io/projects/view/601c41a0137c9100112a228d/seeking-medical-or-therapist-office-staff/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking financial service reps who open new accounts:
+https://app.respondent.io/projects/view/601c078fa4c64400113f5be4/seeking-financial-service-reps-who-open-new-accounts!/courtneythurstondelbuono-fca117b50490
+
+($100) Pet food industry manufacturers:
+https://app.respondent.io/projects/view/601c4549137c9100112a873e/pet-food-industry/courtneythurstondelbuono-fca117b50490
+
+($100) Retired teachers who have tagged and aligned K-12 content:
+https://app.respondent.io/projects/view/6019d2159d392600119c0de5/retired-teachers-who-have-tagged-and-aligned-k-12-content/courtneythurstondelbuono-fca117b50490
+
+($100) Commercial industry underwriter workflows study:
+https://app.respondent.io/projects/view/6018514b0511a8001283a5b7/commercial-insurance-underwriter-workflows-study/courtneythurstondelbuono-fca117b50490
+
+**NEW 3/29/2021**
 ($250) Seeking current high school seniors who have applied to colleges for the 2021 semester:
 https://app.respondent.io/projects/view/603d1657065e9600118456c1/seeking-current-high-school-seniors-who-have-applied-to-colleges-for-the-2021-semester/courtneythurstondelbuono-fca117b50490
 
