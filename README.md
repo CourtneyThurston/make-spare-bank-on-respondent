@@ -2,6 +2,46 @@
 Okay so started also working on another user interviews platform, Respondent. Here's surveys that are likely to work for y'all (listed first), plus random things after:
 
 ** NEW 3/30/21 **
+
+($215) Seeking director/VP of Patient Experience at a healthcare provider:
+https://app.respondent.io/projects/view/6063ab83f91f370012a3d8ee/seeking-directorvp-of-patient-experience-at-a-healthcare-provider/courtneythurstondelbuono-fca117b50490
+
+($105) Do you lead or help manage employee benefits at your company:
+https://app.respondent.io/projects/view/60622419f550d70013508b35/do-you-lead-or-help-manage-employee-benefits-at-your-company-we-want-to-hear-from-you!/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking independent older adults:
+https://app.respondent.io/projects/view/605deee63dd9690014c58607/seeking-independent-older-adults/courtneythurstondelbuono-fca117b50490
+
+($100) Seeking active older adults:
+https://app.respondent.io/projects/view/6059f40dd9f1970015182dcd/seeking-active-older-adults/courtneythurstondelbuono-fca117b50490
+
+($125) Do you work in ecommerce:
+https://app.respondent.io/projects/view/6063922ffd683100143e3b8b/do-you-work-in-e-commerce-we-want-to-talk-to-you!/courtneythurstondelbuono-fca117b50490
+
+($100) Calling all tattoo artists:
+https://app.respondent.io/projects/view/60637d5e534b7a00131ad55e/calling-all-tattoo-artists!/courtneythurstondelbuono-fca117b50490
+
+($250) Looking for those who've faced tax issues in the past:
+https://app.respondent.io/projects/view/60636573f550d70013694d69/copy-of-looking-for-those-who've-faced-tax-issues-in-the-past/courtneythurstondelbuono-fca117b50490
+
+($175) Seeking demand planners and demand forecasters:
+https://app.respondent.io/projects/view/605b9a697fc4800013919cfe/seeking-demand-planners-and-demand-forecasters/courtneythurstondelbuono-fca117b50490
+
+($100) Veterans and service members website feedback:
+https://app.respondent.io/projects/view/604fbdebc8092c0012679be8/veterans-and-service-members-website-feedback/courtneythurstondelbuono-fca117b50490
+
+($125) People who have experience buying & selling commercial properties:
+https://app.respondent.io/projects/view/6063294970189b0014fac621/people-who-have-experience-buying-and-selling-commercial-properties/courtneythurstondelbuono-fca117b50490
+
+($120) Seeking luxury vehicle owners experienced w/ making deposits for reserving vehicles:
+https://app.respondent.io/projects/view/606114cd2b4a230014285784/seeking-luxury-vehicle-owners-experienced-with-making-deposits-for-reserving-vehicles/courtneythurstondelbuono-fca117b50490
+
+($150) Seeking guests of the Ritz-Carlton Hotel:
+https://app.respondent.io/projects/view/6062722df550d700135a2311/seeking-guests-of-the-ritz-carlton-hotel/courtneythurstondelbuono-fca117b50490
+
+($150) Managing commercial risk:
+https://app.respondent.io/projects/view/606262462b4a23001443aca7/managing-commercial-risk/courtneythurstondelbuono-fca117b50490
+
 ($100) Do you handle IT Tasks at your company:
 https://app.respondent.io/projects/view/606251ce84d563001481407e/do-you-handle-it-tasks-at-your-company-we-want-to-hear-from-you!/courtneythurstondelbuono-fca117b50490
 
